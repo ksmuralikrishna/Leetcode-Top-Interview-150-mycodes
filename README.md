@@ -1,14 +1,15 @@
-# Leetcode-Top-Interview-150-mycodes
+# LeetCode Top Interview 150 Solutions (C#)  
 
-This repository contains my solutions for the **Top Interview 150** problems on LeetCode. Each solution is written with clarity and efficiency in mind.  
+This repository contains my C# solutions for the **Top Interview 150** problems on LeetCode. Each solution is implemented with clarity and efficiency in mind.  
 
 ## 🚀 Features  
-- Well-structured and optimized solutions  
-- Various programming approaches  
+- Optimized C# solutions  
+- Each file includes the method used for solving the problem  
+- Well-structured code with explanations  
 - Regular updates as I progress  
 
 ## 📂 Structure  
-Each problem is organized by topic, with clear explanations and comments in the code.  
+Each problem is organized by topic, and the method used for solving it is mentioned within the respective code file.  
 
 ## 🤝 Contributions  
 Feel free to explore, suggest improvements, or discuss alternative approaches!  
