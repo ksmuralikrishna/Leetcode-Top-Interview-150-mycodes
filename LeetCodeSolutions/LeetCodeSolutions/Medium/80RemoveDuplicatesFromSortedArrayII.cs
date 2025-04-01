@@ -8,7 +8,7 @@ namespace LeetCodeSolutions.Medium
 {
     public int RemoveDuplicates(int[] nums)
     {
-        if (nums.Length <= 2) return nums.Length; // If the array has 2 or fewer elements, return as is.
+        if (nums.Length <= 2) return nums.Length;//If the array has 2 or fewer elements, return as is.
 
         int k = 2; // Start from index 2 since the first two elements can always remain.
 
