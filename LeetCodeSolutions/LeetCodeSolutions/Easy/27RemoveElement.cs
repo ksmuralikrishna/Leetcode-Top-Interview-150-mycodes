@@ -9,8 +9,8 @@ namespace LeetCodeSolutions.Easy
     public class _27RemoveElement
     {
         public int RemoveElement(int[] nums, int val)
-        {
-            int k = 0;
+        { 
+            int k = 0; //comment
 
             for (int i = 0; i < nums.Length; i++)
             {
