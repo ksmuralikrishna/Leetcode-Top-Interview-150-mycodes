@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace LeetCodeSolutions.Easy 
-{
+{ 
     public class Solution
     {
         public bool IsIsomorphic(string s, string t)
