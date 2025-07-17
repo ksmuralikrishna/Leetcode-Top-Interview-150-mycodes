@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LeetCodeSolutions.Easy
+namespace LeetCodeSolutions.Easy 
 {
     public class Solution
     {
